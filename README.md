@@ -12,3 +12,6 @@ In August 2024, I joined the Industry Professional Credentials Track program off
 ## Certificate
 [![Certificate](https://github.com/SlowJii/IBM-Data-Engineering-Python-for-Data-Science/blob/main/certificate.jpeg?raw=true)](https://github.com/SlowJii/IBM-Data-Engineering-Python-for-Data-Science/blob/main/certificate.jpeg?raw=true)
 
+
+![IBM](https://img.shields.io/badge/IBM-red?style=for-the-badge&logo=IBM&logoColor=red&color=white)
+
